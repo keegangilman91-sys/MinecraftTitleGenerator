@@ -211,6 +211,17 @@
       [22, 62],
       [108, 148],
       [194, 194, 234, 242]
+    },
+    {
+    "id": "minecraft-legeneds",
+    "variants": [
+      {
+        "id": "minecraft-legends",
+        "name": "Version 1",
+        "description": "Minecraft Legends.",
+        "author": "Keegan Gilman",
+        "preview": "LEGENDS",
+        "shifts": "inherit"
     ],
     "ends": [
       [0, 22, 62, 84],
